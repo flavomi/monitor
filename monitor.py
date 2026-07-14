@@ -26,7 +26,7 @@ import requests
 
 # ============================== CONFIGURAÇÃO ==============================
 
-NTFY_TOPIC = "SEU-TOPICO-UNICO-AQUI-troque-isso"  # crie um nome único e secreto
+NTFY_TOPIC = "xpto-cripto-alertas-9f3k2"  # crie um nome único e secreto
 NTFY_URL = f"https://ntfy.sh/{NTFY_TOPIC}"
 
 SUBREDDITS = [
